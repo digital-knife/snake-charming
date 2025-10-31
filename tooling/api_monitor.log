@@ -1,0 +1,23 @@
+2025-10-31 10:24:12,477 - INFO - Starting Scheduler
+2025-10-31 10:24:42,483 - INFO - Running API monitor
+2025-10-31 10:24:42,484 - INFO - Config read: {'server': 'web01', 'disk_threshold_percent': 80.0, 'cpu_threshold': 80.0, 'api_url': 'https://jsonplaceholder.typicode.com/posts/1'}
+2025-10-31 10:24:42,484 - ERROR - {"Monitor failed: 'dict' object has no attribute 'net'"}
+2025-10-31 10:26:55,542 - INFO - Starting Scheduler
+2025-10-31 10:27:25,547 - INFO - Running API monitor
+2025-10-31 10:27:25,549 - INFO - Config read: {'server': 'web01', 'disk_threshold_percent': 80.0, 'cpu_threshold': 80.0, 'api_url': 'https://jsonplaceholder.typicode.com/posts/1'}
+2025-10-31 10:27:25,895 - INFO - Metrics fetched: CPU=75.0%, Disk=85.0%
+2025-10-31 10:27:26,015 - INFO - Metrics fetched: CPU=75.0%, Disk=85.0%
+2025-10-31 10:27:26,016 - INFO - CPU usage 75.0 is below threshold 80.0 on web01
+2025-10-31 10:27:26,016 - WARNING - Disk usage 85.0% exceeds thrshold 80.0 on web01
+2025-10-31 10:27:56,021 - INFO - Running API monitor
+2025-10-31 10:27:56,022 - INFO - Config read: {'server': 'web01', 'disk_threshold_percent': 80.0, 'cpu_threshold': 80.0, 'api_url': 'https://jsonplaceholder.typicode.com/posts/1'}
+2025-10-31 10:27:56,138 - INFO - Metrics fetched: CPU=75.0%, Disk=85.0%
+2025-10-31 10:27:56,268 - INFO - Metrics fetched: CPU=75.0%, Disk=85.0%
+2025-10-31 10:27:56,268 - INFO - CPU usage 75.0 is below threshold 80.0 on web01
+2025-10-31 10:27:56,269 - WARNING - Disk usage 85.0% exceeds thrshold 80.0 on web01
+2025-10-31 10:28:26,275 - INFO - Running API monitor
+2025-10-31 10:28:26,275 - INFO - Config read: {'server': 'web01', 'disk_threshold_percent': 80.0, 'cpu_threshold': 80.0, 'api_url': 'https://jsonplaceholder.typicode.com/posts/1'}
+2025-10-31 10:28:26,424 - INFO - Metrics fetched: CPU=75.0%, Disk=85.0%
+2025-10-31 10:28:26,533 - INFO - Metrics fetched: CPU=75.0%, Disk=85.0%
+2025-10-31 10:28:26,534 - INFO - CPU usage 75.0 is below threshold 80.0 on web01
+2025-10-31 10:28:26,535 - WARNING - Disk usage 85.0% exceeds thrshold 80.0 on web01

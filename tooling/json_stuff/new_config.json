@@ -1,0 +1,5 @@
+{
+    "server": "db01",
+    "port": 5432,
+    "enabled": false
+}

@@ -1,0 +1,4 @@
+server: web01
+disk_threshold_percent: 80.0
+cpu_threshold: 80.0
+api_url: https://jsonplaceholder.typicode.com/posts/1
