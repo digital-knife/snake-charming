@@ -1,0 +1,5 @@
+{
+    "server": "web01",
+    "disk_threshold": 80.0,
+    "enabled": true
+}

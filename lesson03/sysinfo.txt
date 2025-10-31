@@ -1,0 +1,5 @@
+System Report
+===============
+OS: Linux 6.14.0-33-generic
+Working Directory: /home/dklol/dev/snake-charming/lesson03
+Current User is: dklol

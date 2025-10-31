@@ -1,5 +1,4 @@
-*_venv/
-*venv/
+venv/
 .env/
 env/
 # Also good defaults for Python projects:
