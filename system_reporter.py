@@ -1,15 +1,11 @@
 #!/usr/bin/env python3
 
-import subprocess  # Runs Linux commands
-import yaml  # Parses YAML
-import logging  # Logs events
-import schedule  # Schedules tasks
-import time  # Pauses execution
-import datetime  # Adds timestamps
-
-# Docs: https://docs.python.org/3/library/{subprocess,logging,time,datetime}.html
-# Docs: pyyaml - https://pyyaml.readthedocs.io/en/latest/
-# Docs: schedule - https://schedule.readthedocs.io/en/stable/
+import subprocess  
+import yaml 
+import logging 
+import schedule
+import time
+import datetime
 
 # Configure logging to file
 logging.basicConfig(
