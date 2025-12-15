@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-#!/usr/bin/env python3
-
 import subprocess  # Runs Linux commands
 import yaml  # Parses YAML
 import logging  # Logs events
