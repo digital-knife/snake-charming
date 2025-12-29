@@ -1,3 +1,0 @@
-Hello from Python!
-This file was created automatically.
-Appending one more line.
